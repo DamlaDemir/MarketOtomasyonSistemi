@@ -1,0 +1,324 @@
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\Asena\Desktop\Damla\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+C:\Users\Asena\Desktop\Damla\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+C:\Users\Asena\Desktop\Damla\SatışFinalProjesiÇalışmaları\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListelemeEkrani.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListelemeEkrani.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\Login Oluştur\Login Oluştur\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListelemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\OOP-Final Proje1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\OOP-Final Proje1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListelemeEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+I:\OOP-Final Proje1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListelemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListelemeEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+F:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListelemeEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asena\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GunlukSatisTakipEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GunlukSatisTakipEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListelemeEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriAramaEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+I:\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\OOP-Final Proje yedek\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GunlukSatisTakipEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GunlukSatisTakipEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\BAŞARDIK !!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunListelemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GunlukSatisTakipEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunListelemeEkrani.resources
+C:\Users\Asus\Desktop\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GunlukSatisTakipEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunListelemeEkrani.resources
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GunlukSatisTakipEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunListelemeEkrani.resources
+F:\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AnaEkran.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GunlukSatisTakipEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerAramaEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerEklemeEkranı.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KasiyerListeleEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MusteriListelemeEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MüsteriEklemeEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PatronAnaEkran.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatisEklemeEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StokGoruntulemeEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunAramaEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunEklemeEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UrunListelemeEkrani.resources
+C:\Users\ASUS\Desktop\github\OOP-FİNAL PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
